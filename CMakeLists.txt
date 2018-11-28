@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.3)
-project(openFrameworks-clion)
-set(APP_NAME openFrameworks-clion)
+project(test)
+set(APP_NAME test)
 
 # ===================== oF Directory =====================
-set(OF_DIRECTORY ~/of)
+set(OF_DIRECTORY ~/OF)
 
 
 # ===================== Compiler Flags =====================
